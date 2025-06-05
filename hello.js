@@ -1,6 +1,7 @@
 console.log("hello world");
 
 let val=19;
+let val2=20;
 val="hello";
 val=false
 console.log(val)
